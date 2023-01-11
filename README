@@ -1,0 +1,9 @@
+### Workshop
+
+1. To start the workshop type `learnyounode` or `npm start`.
+
+2. Select a specific challenge using your keyboard and hit enter.
+
+3. Create a file example `1.hello-world.js` to solve the challenge 1.
+
+4. To verify the above file type `learnyounode verify 1.hello-world.js` or `npm run verify 1.hello-world.js`

@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "learnyounode",
+    "verify": "learnyounode verify"
+  },
+  "dependencies": {
+    "learnyounode": "^4.2.2"
+  }
+}
