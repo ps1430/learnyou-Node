@@ -6,6 +6,7 @@
     "verify": "learnyounode verify"
   },
   "dependencies": {
+    "bl": "^6.0.0",
     "learnyounode": "^4.2.2"
   }
 }
